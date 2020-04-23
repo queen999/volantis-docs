@@ -27,6 +27,10 @@ links:
       url: https://mrhuanhao.cn/
       avatar: https://cdn.jsdelivr.net/gh/mrhuanhao/cdn/myimg/huanhao.jpg
       tags: [2.3主题, linux]
+    - name: 覃浩的博客
+      url: https://www.zhengyuanyuan520.com
+      avatar: https://cdn.jsdelivr.net/gh/queen999/ImageHosting@master/images/avatar.jpg
+      tags: [Java, 计算机网络]
   - group: '版本：^2.0～2.4'
     desc: 导航栏 N 级菜单；新增 Tab、Note、Menu 标签
     items:
@@ -71,10 +75,6 @@ links:
       tags: [Java]
   - group: '版本：^1.6～1.7'
     items:
-    - name: 覃浩的博客
-      url: https://www.zhengyuanyuan520.com
-      avatar: https://www.zhengyuanyuan520.cn/img/blog/avatar.jpg
-      tags:
     - name: Throwable
       url: http://www.throwable.club
       avatar: https://public-1256189093.cos.ap-guangzhou.myqcloud.com/static/doge_avatar.jpg
