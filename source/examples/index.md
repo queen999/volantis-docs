@@ -42,6 +42,10 @@ links:
       url: https://blog.chrisyy.top
       avatar: https://i.loli.net/2020/04/02/uPRxC6fvsU4dlcb.jpg
       tags: [ctf, math]
+    - name: 覃浩的博客
+      url: https://www.zhengyuanyuan520.com
+      avatar: https://cdn.jsdelivr.net/gh/queen999/ImageHosting@master/images/avatar.jpg
+      tags: [计算机网络, Java]
   - group: '版本：^2.0～2.4'
     desc: 导航栏 N 级菜单；新增 Tab、Note、Menu 标签
     items:
@@ -86,10 +90,6 @@ links:
       tags: [Java]
   - group: '版本：^1.6～1.7'
     items:
-    - name: 覃浩的博客
-      url: https://www.zhengyuanyuan520.com
-      avatar: https://i.loli.net/2020/04/26/dup1Qkt3RsOGw8K.jpg
-      tags:
     - name: Throwable
       url: http://www.throwable.club
       avatar: https://public-1256189093.cos.ap-guangzhou.myqcloud.com/static/doge_avatar.jpg
